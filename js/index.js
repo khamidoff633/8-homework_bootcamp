@@ -7,6 +7,7 @@ const elSearch = document.querySelector(".js-search")
 
 
 
+
 function render(data) {
     elPokemonlist.innerHTML = "";
 
